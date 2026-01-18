@@ -16,7 +16,7 @@ We build scalable backend systems, APIs, and web platforms for B2C and B2B clien
 We maintain a mix of open-source tools, internal libraries, and client-specific solutions.
 
 ## 📬 Contact Us
-🌐 Website: [sanlynetije.com]  
+🌐 Website: https://sanlynetije.com  
 📧 Email: info@sanlynetije.com  
 📍 Location: Turkmenistan (working globally)
 
